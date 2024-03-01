@@ -1,0 +1,11 @@
+torch
+torchvision
+matplotlib
+numpy
+Pillow
+pandas
+opencv-python
+tensorboardX
+kornia
+tqdm
+pytorch_msssim

@@ -1,0 +1,994 @@
+2024-02-16 09:50:23,403 - DEBUG - This is the len of images in root: 8856
+2024-02-16 09:50:23,404 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-16 09:50:23,538 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-16 09:50:23,538 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-16 09:50:43,308 - DEBUG - This is the len of images in root: 8856
+2024-02-16 09:50:43,309 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-16 09:50:43,442 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-16 09:50:43,442 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 07:32:43,423 - DEBUG - This is the len of images in root: 8856
+2024-02-20 07:32:43,424 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 07:32:43,558 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 07:32:43,558 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 07:34:00,766 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:34:00,766 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:34:00,767 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:35:14,909 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:35:14,909 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:35:14,910 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:36:29,238 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:36:29,239 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:36:29,239 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:37:43,651 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:37:43,651 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:37:43,652 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:38:57,993 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:38:57,994 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:38:57,995 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:40:12,520 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:40:12,521 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:40:12,522 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:41:27,063 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:41:27,064 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:41:27,065 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:42:41,478 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:42:41,479 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:42:41,479 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:43:56,040 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:43:56,041 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:43:56,041 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:45:10,732 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:45:10,733 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:45:10,733 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:46:25,175 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:46:25,176 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:46:25,177 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:47:39,869 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:47:39,870 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:47:39,871 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:48:54,371 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:48:54,372 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:48:54,372 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:50:08,822 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:50:08,822 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:50:08,822 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:51:24,249 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:51:24,249 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:51:24,250 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:52:38,836 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:52:38,837 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:52:38,838 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:53:53,489 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:53:53,489 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:53:53,490 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:55:07,736 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:55:07,736 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:55:07,737 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:56:22,431 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:56:22,432 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:56:22,432 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:57:36,878 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:57:36,879 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:57:36,879 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:58:52,678 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:58:52,679 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 07:58:52,679 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:00:07,237 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:00:07,238 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:00:07,238 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:01:22,077 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:01:22,078 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:01:22,079 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:02:36,507 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:02:36,508 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:02:36,508 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:03:50,977 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:03:50,977 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:03:50,978 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:05:05,365 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:05:05,366 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:05:05,367 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:06:19,751 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:06:19,751 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:06:19,751 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:07:34,269 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:07:34,270 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:07:34,270 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:08:49,053 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:08:49,054 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:08:49,055 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:10:03,463 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:10:03,464 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:10:03,464 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:11:17,958 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:11:17,958 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:11:17,959 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:12:32,501 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:12:32,501 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:12:32,502 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:13:46,911 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:13:46,911 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:13:46,912 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:15:01,776 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:15:01,777 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:15:01,777 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:16:16,230 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:16:16,231 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:16:16,232 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:17:30,786 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:17:30,787 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:17:30,787 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:18:45,225 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:18:45,226 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:18:45,227 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:19:59,746 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:19:59,746 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:19:59,747 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:21:14,358 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:21:14,359 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:21:14,360 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:22:28,944 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:22:28,945 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:22:28,945 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:23:43,408 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:23:43,409 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:23:43,409 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:24:57,983 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:24:57,984 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:24:57,984 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:26:12,739 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:26:12,740 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:26:12,740 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:27:27,267 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:27:27,268 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:27:27,268 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:28:41,656 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:28:41,657 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:28:41,658 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:29:56,442 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:29:56,443 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:29:56,444 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:31:10,865 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:31:10,866 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:31:10,867 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:32:25,548 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:32:25,549 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:32:25,549 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:33:39,936 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:33:39,937 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:33:39,938 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:34:54,427 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:34:54,428 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:34:54,429 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:36:08,848 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:36:08,849 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:36:08,850 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:37:23,182 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:37:23,183 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:37:23,183 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:38:37,592 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:38:37,592 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:38:37,593 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:39:52,030 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:39:52,031 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:39:52,031 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:41:06,502 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:41:06,503 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:41:06,503 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:42:21,233 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:42:21,233 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:42:21,234 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:43:35,785 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:43:35,786 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:43:35,786 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:44:50,315 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:44:50,316 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:44:50,316 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:46:04,649 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:46:04,650 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:46:04,650 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:47:18,974 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:47:18,974 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:47:18,975 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:48:33,424 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:48:33,425 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:48:33,425 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:49:47,900 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:49:47,901 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:49:47,902 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:51:02,619 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:51:02,620 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:51:02,620 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:52:17,123 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:52:17,124 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:52:17,124 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:53:31,635 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:53:31,636 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:53:31,637 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:54:46,023 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:54:46,024 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:54:46,024 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:56:00,207 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:56:00,208 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:56:00,208 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:57:14,516 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:57:14,516 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:57:14,517 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:58:28,905 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:58:28,906 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:58:28,906 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:59:43,606 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:59:43,607 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 08:59:43,607 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:00:58,142 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:00:58,143 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:00:58,144 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:02:12,647 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:02:12,647 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:02:12,648 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:03:26,997 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:03:26,998 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:03:26,999 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:04:41,388 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:04:41,389 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:04:41,390 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:05:55,814 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:05:55,815 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:05:55,816 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:07:10,307 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:07:10,308 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:07:10,308 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:08:24,765 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:08:24,766 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:08:24,767 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:09:39,199 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:09:39,200 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:09:39,201 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:10:53,841 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:10:53,842 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:10:53,843 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:12:08,305 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:12:08,306 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:12:08,307 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:13:22,774 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:13:22,775 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:13:22,776 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:14:37,301 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:14:37,302 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:14:37,302 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:15:51,715 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:15:51,715 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:15:51,715 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:17:06,276 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:17:06,277 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:17:06,277 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:18:20,918 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:18:20,918 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:18:20,919 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:19:35,475 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:19:35,475 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:19:35,476 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:20:49,938 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:20:49,938 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:20:49,939 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:22:04,537 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:22:04,537 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:22:04,538 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:23:19,238 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:23:19,238 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:23:19,239 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:24:34,017 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:24:34,018 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:24:34,019 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:25:48,677 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:25:48,678 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:25:48,679 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:27:03,161 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:27:03,161 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:27:03,162 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:28:17,756 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:28:17,757 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:28:17,757 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:29:32,244 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:29:32,245 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:29:32,246 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:30:46,786 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:30:46,787 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:30:46,787 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:32:01,307 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:32:01,307 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:32:01,308 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:33:15,753 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:33:15,753 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:33:15,753 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:34:30,109 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:34:30,109 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:34:30,109 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:35:44,625 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:35:44,625 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:35:44,626 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:36:59,333 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:36:59,334 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:36:59,335 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:38:13,834 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:38:13,835 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:38:13,835 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:39:28,224 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:39:28,224 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:39:28,225 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:40:42,619 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:40:42,620 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:40:42,620 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:41:57,307 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:41:57,308 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:41:57,309 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:43:11,492 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:43:11,492 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:43:11,493 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:44:25,886 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:44:25,887 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:44:25,887 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:45:40,355 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:45:40,356 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:45:40,356 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:46:54,792 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:46:54,793 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:46:54,793 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:48:09,259 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:48:09,260 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:48:09,260 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:49:23,643 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:49:23,644 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:49:23,644 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:50:38,207 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:50:38,208 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:50:38,209 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:51:52,604 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:51:52,605 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:51:52,605 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:53:07,016 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:53:07,016 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:53:07,016 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:54:21,306 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:54:21,307 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:54:21,308 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:55:35,611 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:55:35,611 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:55:35,612 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:56:50,315 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:56:50,316 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:56:50,316 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:58:04,640 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:58:04,641 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:58:04,642 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:59:19,087 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:59:19,088 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 09:59:19,088 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:00:33,567 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:00:33,568 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:00:33,568 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:01:47,865 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:01:47,866 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:01:47,866 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:03:02,242 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:03:02,243 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:03:02,244 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:04:16,640 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:04:16,641 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:04:16,641 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:05:30,925 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:05:30,926 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:05:30,926 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:06:45,445 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:06:45,446 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:06:45,447 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:07:59,800 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:07:59,801 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:07:59,802 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:09:14,073 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:09:14,074 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:09:14,075 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:10:28,578 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:10:28,578 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:10:28,578 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:11:42,966 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:11:42,967 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:11:42,967 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:12:57,440 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:12:57,441 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:12:57,441 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:14:11,849 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:14:11,850 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:14:11,851 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:15:26,224 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:15:26,224 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:15:26,224 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:16:40,679 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:16:40,680 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:16:40,680 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:17:55,041 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:17:55,042 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:17:55,042 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:19:09,511 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:19:09,512 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:19:09,512 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:20:23,891 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:20:23,891 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:20:23,892 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:21:38,372 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:21:38,372 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:21:38,372 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:22:52,923 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:22:52,923 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:22:52,924 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:24:07,358 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:24:07,359 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:24:07,360 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:25:21,818 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:25:21,819 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:25:21,819 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:26:36,654 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:26:36,655 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:26:36,655 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:27:51,191 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:27:51,192 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:27:51,193 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:29:05,598 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:29:05,599 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:29:05,600 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:30:19,955 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:30:19,956 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:30:19,957 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:31:34,114 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:31:34,115 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:31:34,115 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:32:48,676 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:32:48,677 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:32:48,677 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:34:03,112 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:34:03,113 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:34:03,114 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:35:17,635 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:35:17,636 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:35:17,636 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:36:32,162 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:36:32,162 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:36:32,163 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:37:46,885 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:37:46,886 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:37:46,887 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:39:01,260 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:39:01,261 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:39:01,261 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:40:15,698 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:40:15,699 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:40:15,700 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:41:29,993 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:41:29,994 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:41:29,994 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:42:44,616 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:42:44,617 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:42:44,618 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:43:59,114 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:43:59,115 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:43:59,116 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:45:13,637 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:45:13,638 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:45:13,639 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:46:28,127 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:46:28,127 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:46:28,128 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:47:42,523 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:47:42,524 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:47:42,525 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:48:56,954 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:48:56,954 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:48:56,955 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:50:11,465 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:50:11,466 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:50:11,466 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:51:26,016 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:51:26,017 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:51:26,017 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:52:40,489 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:52:40,490 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:52:40,490 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:53:54,595 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:53:54,596 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:53:54,597 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:55:09,092 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:55:09,093 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:55:09,094 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:56:23,523 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:56:23,524 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:56:23,524 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:57:38,081 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:57:38,082 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:57:38,082 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:58:52,961 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:58:52,962 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 10:58:52,963 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:00:07,477 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:00:07,478 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:00:07,479 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:01:21,856 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:01:21,857 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:01:21,857 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:02:36,410 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:02:36,411 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:02:36,412 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:03:51,345 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:03:51,346 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:03:51,347 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:05:06,086 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:05:06,087 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:05:06,088 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:06:20,917 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:06:20,918 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:06:20,918 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:07:35,762 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:07:35,762 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:07:35,762 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:08:50,303 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:08:50,303 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:08:50,304 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:10:04,919 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:10:04,920 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:10:04,921 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:11:19,716 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:11:19,717 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:11:19,717 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:12:34,489 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:12:34,489 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:12:34,490 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:13:49,058 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:13:49,059 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:13:49,059 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:15:03,706 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:15:03,707 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:15:03,707 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:16:18,339 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:16:18,340 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:16:18,341 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:17:33,161 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:17:33,162 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:17:33,162 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:18:47,682 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:18:47,683 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:18:47,684 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:20:02,332 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:20:02,333 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:20:02,333 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:21:17,025 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:21:17,026 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:21:17,027 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:22:31,692 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:22:31,692 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:22:31,693 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:23:46,318 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:23:46,319 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:23:46,319 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:25:00,933 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:25:00,934 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:25:00,935 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:26:15,623 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:26:15,623 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:26:15,624 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:27:30,063 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:27:30,064 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:27:30,065 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:28:44,361 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:28:44,362 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:28:44,362 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:29:59,031 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:29:59,031 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:29:59,032 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:31:13,736 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:31:13,736 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:31:13,737 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:32:28,214 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:32:28,215 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:32:28,215 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:33:42,656 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:33:42,657 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:33:42,657 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:34:57,335 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:34:57,336 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:34:57,337 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:36:12,009 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:36:12,010 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:36:12,010 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:37:26,352 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:37:26,353 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:37:26,353 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:38:40,832 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:38:40,833 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:38:40,833 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:39:55,329 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:39:55,329 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:39:55,330 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:41:09,753 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:41:09,754 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:41:09,755 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:42:24,213 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:42:24,214 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:42:24,215 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:43:38,793 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:43:38,794 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:43:38,795 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:44:53,479 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:44:53,480 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:44:53,481 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:46:08,206 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:46:08,206 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:46:08,207 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:47:22,648 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:47:22,649 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:47:22,649 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:48:37,293 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:48:37,294 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:48:37,295 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:49:51,841 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:49:51,841 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:49:51,841 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:51:06,230 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:51:06,231 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:51:06,231 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:52:20,754 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:52:20,755 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:52:20,756 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:53:35,248 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:53:35,249 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:53:35,249 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:54:49,774 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:54:49,775 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:54:49,775 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:56:04,197 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:56:04,198 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:56:04,198 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:57:18,834 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:57:18,835 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:57:18,835 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:58:33,431 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:58:33,432 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:58:33,432 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:59:48,132 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:59:48,132 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 11:59:48,132 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:01:02,685 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:01:02,686 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:01:02,687 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:02:17,220 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:02:17,221 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:02:17,221 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:03:31,690 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:03:31,690 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:03:31,691 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:04:46,065 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:04:46,066 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:04:46,066 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:06:00,550 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:06:00,551 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:06:00,551 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:07:14,991 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:07:14,992 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:07:14,993 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:08:29,516 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:08:29,517 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:08:29,517 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:09:44,030 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:09:44,031 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:09:44,031 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:10:58,509 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:10:58,510 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:10:58,510 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:12:12,949 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:12:12,949 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:12:12,950 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:13:27,499 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:13:27,500 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:13:27,501 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:14:42,028 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:14:42,028 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:14:42,029 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:15:56,574 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:15:56,575 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:15:56,575 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:17:11,310 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:17:11,311 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:17:11,311 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:18:25,872 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:18:25,873 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:18:25,874 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:19:40,594 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:19:40,595 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:19:40,596 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:20:54,991 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:20:54,992 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:20:54,992 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:22:09,462 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:22:09,462 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:22:09,463 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:23:24,092 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:23:24,093 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:23:24,094 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:24:38,592 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:24:38,593 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:24:38,593 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:25:53,226 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:25:53,226 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:25:53,227 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:27:07,776 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:27:07,777 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:27:07,778 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:28:22,163 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:28:22,164 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:28:22,165 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:29:36,838 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:29:36,839 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:29:36,840 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:30:51,385 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:30:51,386 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:30:51,387 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:32:05,937 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:32:05,938 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:32:05,939 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:33:20,385 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:33:20,385 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:33:20,386 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:34:34,952 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:34:34,953 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:34:34,953 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:35:49,488 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:35:49,489 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:35:49,489 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:37:03,880 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:37:03,881 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:37:03,882 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:38:18,398 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:38:18,399 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:38:18,400 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:39:32,834 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:39:32,835 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:39:32,835 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:40:47,430 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:40:47,430 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:40:47,430 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:42:02,031 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:42:02,032 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:42:02,032 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:43:16,487 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:43:16,488 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 12:43:16,488 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:24:44,029 - DEBUG - This is the len of images in root: 8856
+2024-02-20 14:24:44,030 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:24:44,163 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 14:24:44,163 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:26:02,019 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:26:02,020 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:26:02,020 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:27:16,804 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:27:16,805 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:27:16,805 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:28:31,788 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:28:31,789 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:28:31,790 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:29:47,298 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:29:47,299 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:29:47,299 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:31:02,663 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:31:02,664 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:31:02,665 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:32:17,899 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:32:17,899 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:32:17,900 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:33:33,170 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:33:33,170 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:33:33,171 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:34:48,361 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:34:48,362 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:34:48,363 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:36:03,579 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:36:03,579 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:36:03,580 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:36:21,729 - DEBUG - This is the len of images in root: 8856
+2024-02-20 14:36:21,730 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:36:21,864 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 14:36:21,864 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:37:40,275 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:37:40,276 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:37:40,276 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:39:00,536 - DEBUG - This is the len of images in root: 8856
+2024-02-20 14:39:00,537 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:39:00,695 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 14:39:00,695 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:40:19,465 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:40:19,465 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:40:19,466 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:41:34,837 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:41:34,838 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:41:34,838 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:42:50,188 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:42:50,189 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:42:50,189 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:44:05,480 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:44:05,481 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:44:05,481 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:45:11,909 - DEBUG - This is the len of images in root: 8856
+2024-02-20 14:45:11,911 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:45:12,044 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 14:45:12,044 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:46:30,627 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:46:30,627 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:46:30,628 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:47:46,188 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:47:46,189 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:47:46,189 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:48:34,932 - DEBUG - This is the len of images in root: 8856
+2024-02-20 14:48:34,933 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:48:35,070 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 14:48:35,070 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:49:53,555 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:49:53,556 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:49:53,557 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:55:00,327 - DEBUG - This is the len of images in root: 8856
+2024-02-20 14:55:00,328 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:55:00,465 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 14:55:00,465 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:56:18,573 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:56:18,574 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:56:18,574 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:58:13,264 - DEBUG - This is the len of images in root: 8856
+2024-02-20 14:58:13,265 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:58:13,401 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 14:58:13,401 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 14:59:31,635 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:59:31,636 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 14:59:31,637 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:03:04,970 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:03:04,971 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:03:05,105 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:03:05,105 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:04:23,317 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:04:23,318 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:04:23,318 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:05:38,566 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:05:38,567 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:05:38,567 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:13:29,833 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:13:29,834 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:13:29,835 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:16:16,093 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:16:16,094 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:16:16,229 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:16:16,229 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:18:06,334 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:18:06,335 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:18:06,471 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:18:06,471 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:24:31,964 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:24:31,966 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:24:32,100 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:24:32,100 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:25:55,480 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:25:55,481 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:25:55,615 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:25:55,616 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:27:14,196 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:27:14,197 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:27:14,197 - WARNING - NaN or Inf found in input tensor.
+2024-02-20 15:28:29,585 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:28:29,586 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:28:29,720 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:28:29,720 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:29:50,155 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:29:50,156 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:29:50,292 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:29:50,292 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:33:46,665 - DEBUG - This is the len of images in root: 8856
+2024-02-20 15:33:46,666 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 15:33:46,806 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 15:33:46,806 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:09:09,183 - DEBUG - This is the len of images in root: 8856
+2024-02-20 16:09:09,184 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:09:09,321 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 16:09:09,321 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:20:43,624 - DEBUG - This is the len of images in root: 8856
+2024-02-20 16:20:43,625 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:20:43,761 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 16:20:43,761 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:26:44,284 - DEBUG - This is the len of images in root: 8856
+2024-02-20 16:26:44,285 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:26:44,419 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 16:26:44,419 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:44:43,616 - DEBUG - This is the len of images in root: 8856
+2024-02-20 16:44:43,617 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-20 16:44:43,753 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-20 16:44:43,753 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-22 14:02:18,401 - DEBUG - This is the len of images in root: 8856
+2024-02-22 14:02:18,402 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-22 14:02:18,536 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-22 14:02:18,536 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-22 14:32:17,001 - DEBUG - This is the len of images in root: 8856
+2024-02-22 14:32:17,003 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-22 14:32:17,146 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-22 14:32:17,146 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-22 14:41:56,564 - DEBUG - This is the len of images in root: 8856
+2024-02-22 14:41:56,565 - DEBUG - 
+ This is the len of targets in target : 1107
+2024-02-22 14:41:56,705 - DEBUG - 
+ This is the len of images in root: 8856
+2024-02-22 14:41:56,705 - DEBUG - 
+ This is the len of targets in target : 1107
